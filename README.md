@@ -1,4 +1,4 @@
-# BrunoBarrosR
+# Olá, eu sou o Bruno 👋
 
 **Desenvolvedor Back End** na [Keeggo](https://www.keeggo.com/), alocado no **Banco BV**  
 💻 Atuação:  
