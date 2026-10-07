@@ -37,8 +37,8 @@
   <a href="https://github.com/BrunoBarrosR">
     <!-- Adicione &hide=stars,prs para remover métricas específicas -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBarrosR&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-    <!-- Use &custom_title=Linguagens Mais Usadas para personalizar -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBarrosR&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=html,css&exclude_repo=projeto_cadastro_django"/>
+    <!-- Gerado por tools/toplangs (inclui repositórios privados): go run ./tools/toplangs -->
+    <img height="180em" alt="Most Used Languages" src="assets/top-langs.svg"/>
   </a>
 </div>
 
