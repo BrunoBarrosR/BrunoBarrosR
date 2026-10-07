@@ -22,6 +22,7 @@
 <img align="left" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 <img align="left" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 <img align="left" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
 <img align="left" alt="Maven" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
 <img align="left" alt="Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
 <img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
@@ -37,7 +38,7 @@
     <!-- Adicione &hide=stars,prs para remover métricas específicas -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoBarrosR&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
     <!-- Use &custom_title=Linguagens Mais Usadas para personalizar -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBarrosR&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=html,css"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBarrosR&layout=compact&theme=nightowl&hide_border=true&langs_count=8&hide=html,css&exclude_repo=projeto_cadastro_django"/>
   </a>
 </div>
 
