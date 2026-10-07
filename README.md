@@ -11,8 +11,8 @@
 ---
 
 ## 🎯 Foco Atual
-- Aprofundar conhecimentos em **backend** e **arquitetura de software**  
-- Dominar **Java** e **Python**  
+- Aprofundar conhecimentos em **backend**, **arquitetura de software** e **integração de sistemas**  
+- Dominar **Java** e **Go**  
 - Melhores práticas de DevOps
 
 ---
